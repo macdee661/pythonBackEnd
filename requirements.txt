@@ -1,0 +1,6 @@
+flask
+sentinelhub
+numpy
+shapely
+pyproj
+flask-cors
