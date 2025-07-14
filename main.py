@@ -13,6 +13,7 @@ CORS(app)
 config = SHConfig()
 config.sh_client_id = '3774c09d-1f9e-4a39-bd36-029aeda574e2'
 config.sh_client_secret = 'N0sTP6nB2nuyLJwAkJzGDcP4q9CtDKXh'
+config.instance_id = 'f4b3bcef-cd97-4649-92a5-9c8cf53d935e'
 
 # Evalscript for NDVI, NDWI, Red-edge NDVI
 evalscript = """
